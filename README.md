@@ -1,4 +1,4 @@
-# พื้นฐานที่ต้องมี
+# พื้นฐานที่ต้องเรียนมาก่อน
 - [Numpy](https://www.youtube.com/watch?v=MDA8SbfdLKA&list=PLltVQYLz1BMDuwbIF2Js9qu2sZmz7C4kF)
 - [จัดการข้อมูลด้วย Pandas](https://www.youtube.com/watch?v=SSWTX4f22R0&list=PLltVQYLz1BMBioQ9M3V48POuUglPZu8hT)
 - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=ZEcS0S2Cr68&list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)

@@ -4,8 +4,7 @@
 - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=ZEcS0S2Cr68&list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)
 
 # MachineLearning
-ตะลุยเนื้อหา Python & Machine Learning เบื้องต้นทั้งภาคทฤษฎีและภาคปฏิบัติทั้งหมด 12 ชั่วโมง  
-https://www.youtube.com/playlist?list=PLEE74DyIkwEnWO3_W96AN725X2XYoUixg
+ตะลุยเนื้อหา Python & Machine Learning  12 ชั่วโมงเต็ม  [คลิกเพื่อเข้าเรียน](https://www.youtube.com/playlist?list=PLEE74DyIkwEnWO3_W96AN725X2XYoUixg)
 
 | ตอนที่ |                   ชื่อหัวข้อ                   |
 |:----:|:------------------------------------------:|

@@ -3,9 +3,7 @@
 - [จัดการข้อมูลด้วย Pandas](https://www.youtube.com/watch?v=SSWTX4f22R0&list=PLltVQYLz1BMBioQ9M3V48POuUglPZu8hT)
 - [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=ZEcS0S2Cr68&list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)
 
-# MachineLearning
-ตะลุยเนื้อหา Python & Machine Learning  12 ชั่วโมงเต็ม  [คลิกเพื่อเข้าเรียน](https://www.youtube.com/playlist?list=PLEE74DyIkwEnWO3_W96AN725X2XYoUixg)
-
+# สารบัญเนื้อหา
 | ตอนที่ |                   ชื่อหัวข้อ                   |
 |:----:|:------------------------------------------:|
 |   1  | รู้จักกับ Machine Learning                     |
@@ -46,3 +44,12 @@
 |  36  | สร้างโมเดลด้วย SVM (Support Vector Machine)  |
 |  37  | รู้จักกับ Neural Network                       |
 |  38  | สร้างโมเดลจดจำตัวอักษรด้วย MLP                 |
+
+## ☕ ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+
+## 💓 ช่อง Youtube ในเครือของเรา
+![logo](https://github.com/kongruksiamza/programmer-class-room/blob/main/logo.png?raw=true)
+- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)

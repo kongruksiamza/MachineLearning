@@ -1,7 +1,8 @@
 # พื้นฐานที่ต้องเรียนมาก่อน
-- [Numpy](https://www.youtube.com/watch?v=MDA8SbfdLKA&list=PLltVQYLz1BMDuwbIF2Js9qu2sZmz7C4kF)
-- [จัดการข้อมูลด้วย Pandas](https://www.youtube.com/watch?v=SSWTX4f22R0&list=PLltVQYLz1BMBioQ9M3V48POuUglPZu8hT)
-- [สร้างกราฟด้วย Python & Matplotlib](https://www.youtube.com/watch?v=ZEcS0S2Cr68&list=PLltVQYLz1BMBMMar23TR708kD25PCZyam)
+- [Python เบื้องต้น](https://youtube.com/playlist?list=PLEE74DyIkwElyKXAKxmHETTtaq99btEPf&si=PWovkpO9hBo5x2Go)
+- [Numpy](https://youtu.be/MDA8SbfdLKA?si=IQpuUv61pta7y1RL)
+- [จัดการข้อมูลด้วย Pandas](https://youtu.be/SPdwqEPZ_EE?si=F9x0vYZ1jjvuUBwn)
+- [สร้างกราฟด้วย Python & Matplotlib](https://youtu.be/MIaO3atFaGM?si=btbxFQJ8OwBpmpzB)
 
 # สารบัญเนื้อหา
 | ตอนที่ |                   ชื่อหัวข้อ                   |
